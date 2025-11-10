@@ -30,7 +30,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.listen(PORT, () => {
-    console.log(`Instagram: @um4rxd\n\nGitHub: @Um4r719\n\nServer running on http://localhost:${PORT}`);
+    console.log(`Instagram: @jinwiil_onginjo\n\nGitHub: @finjohns, jinwiil,HencillCal\n\nServer running on http://localhost:${PORT}`);
 });
 
 export default app;
